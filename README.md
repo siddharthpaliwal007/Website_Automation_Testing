@@ -4,19 +4,19 @@ Conducted Automation Testing on an Ecommerce Website for QA using Selenium, WebD
 ## Short Description 
 
 #### i.) Register functionality - Generated and automated 4 scenarios to test. 
-Register.feature - Steps written to test for the all the scenarios. 
+Register.feature - Steps written to test for the all the scenarios. <br/>
 Register.java - Implementation of the steps to perform which are present in every scenarios.
 
 #### ii.) Login functionality - Generated and automated 4 scenarios to test. 
-Login.feature - Steps written to test for the all the scenarios. 
+Login.feature - Steps written to test for the all the scenarios. <br/>
 Login.java - Implementation of the steps to perform which are present in every scenarios.
 
-#### iii.) Search functionality - Generated and automated 4 scenarios to test. 
-Search.feature - Steps written to test for the all the scenarios. 
+#### iii.) Search functionality - Generated and automated 2 scenarios to test. 
+Search.feature - Steps written to test for the all the scenarios. <br/>
 Search.java - Implementation of the steps to perform which are present in every scenarios.
 
-#### iv.) Order functionality - Generated and automated 4 scenarios to test. 
-Orders.feature - Steps written to test for the all the scenarios. 
+#### iv.) Order functionality - Generated and automated 1 scenarios to test. 
+Orders.feature - Steps written to test for the all the scenarios. <br/>
 Orders.java - Implementation of the steps to perform which are present in every scenarios.
 
 #### v.) Pages Folder - Contain web elements of each respective pages and sections to perform automation using the specific scenarios. 
