@@ -16,7 +16,7 @@ Search.feature - Steps written to test for the all the scenarios. <br/>
 Search.java - Implementation of the steps to perform which are present in every scenarios.
 
 #### iv.) Order functionality - Generated and automated 1 scenarios to test. 
-Orders.feature - Steps written to test for the all the scenarios. <br/>
+Orders.feature - Steps written to test for the all the scenarios.  <br/>
 Orders.java - Implementation of the steps to perform which are present in every scenarios.
 
 #### v.) Pages Folder - Contain web elements of each respective pages and sections to perform automation using the specific scenarios. 
