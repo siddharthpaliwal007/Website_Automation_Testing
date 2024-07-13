@@ -22,7 +22,7 @@ Orders.java - Implementation of the steps to perform which are present in every 
 #### v.) Pages Folder - Contain web elements of each respective pages and sections to perform automation using the specific scenarios. 
 
 #### Other important files
-Base.java - Declared all the Webdriver API into this file from framework level.
+Base.java - Declared all the Webdriver API into this file from framework level. <br/>
 config.properties - For declaring all configurations once and use multiple times  
 ConfigurationReader.java - For reading properties from the config.properties file. It is also an interface 
 PropertyFileReader.java -  used for implementing the methods present in the interface file ConfigurationReader.java  (Note: the usage of this above file is to intialize the config.properties before performing any operation)
