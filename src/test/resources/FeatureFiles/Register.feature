@@ -5,11 +5,11 @@ Feature: Registraion functionality scenarios
 		Given I launch the application 
 		And I navigate to Account Registration page
 		When I provide all the below valid details
-			| FirstName | Ravi 					|
-			| LastName  | Kiran 				|
-			| Email		| ravi.kiran2@gmail.com	|
-			| Telephone	| 9121634812			|
-			| Password	| rkiran				|
+			| FirstName | Sid					|
+			| LastName  | P 				|
+			| Email		| sidp@gmail.com	|
+			| Telephone	| 2233234490		|
+			| Password	| spal				|
 		And I select the Privacy Policy
 		And I click on Continue Button
 		Then I should see that the User account has successfully created 
@@ -27,11 +27,11 @@ Feature: Registraion functionality scenarios
 		Given I launch the application
 		And I navigate to Account Registration page
 		When I provide all the below valid details
-			| FirstName | Ravi 					|
-			| LastName  | Kiran 				|
-			| Email		| ravi.kiran2@gmail.com	|
-			| Telephone	| 9121634812			|
-			| Password	| rkiran				|
+			| FirstName | Sid					|
+			| LastName  | P 				|
+			| Email		| sidp@gmail.com	|
+			| Telephone	| 2233234490		|
+			| Password	| spal				|
 		And I select the Privacy Policy
 		And I subscribe to Newsletter
 		And I click on Continue Button
@@ -42,11 +42,11 @@ Feature: Registraion functionality scenarios
 		Given I launch the application
 		And I navigate to Account Registration page
 		When I provide the below duplicate details
-			| FirstName | Ravi 					|
-			| LastName  | Kiran 				|
-			| Email		| ravi.kiran1@gmail.com	|
-			| Telephone	| 9121634812			|
-			| Password	| rkiran				|
+			| FirstName | Sid					|
+			| LastName  | P 				|
+			| Email		| sidp@gmail.com	|
+			| Telephone	| 2233234490		|
+			| Password	| spal				|
 		And I select the Privacy Policy 
 		And I click on Continue Button
 		Then I should see that the User is restriced from creating dupblicate account
