@@ -11,7 +11,7 @@ Feature: Login functionality scenarios
 	Scenario: Verify whether the User is not able to login with invalid credentials
 		Given I launch the application
 		And I navigate to Account Login page
-		When I login to the Application using Username "sidp@gmail.com" and Password "spal"
+		When I login to the Application using Username "sidp@gmail.com" and Password "spal11"
 		Then I should see an error message that the credentails are invalid
 		
 	@Login @Three
